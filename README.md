@@ -36,7 +36,7 @@ GitHub Integration Plugin
 Version0.5.0
 GitHub Integration Plugin for Jenkins
 
-
+#by gaus
 GitHub plugin
 Version1.37.0
 This plugin integrates GitHub to Jenkins.
