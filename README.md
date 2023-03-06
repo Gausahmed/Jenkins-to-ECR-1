@@ -35,8 +35,6 @@ https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 GitHub Integration Plugin
 Version0.5.0
 GitHub Integration Plugin for Jenkins
-
-# By gaus
 GitHub plugin
 Version1.37.0
 This plugin integrates GitHub to Jenkins.
