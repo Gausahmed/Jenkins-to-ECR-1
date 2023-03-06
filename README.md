@@ -2,7 +2,7 @@ Jenkins with AWS ECR pipeline
 
 ## Perform these commands on the EC2 instance
 
-1. sudo yum update
+1. sudo yum update -y
 2. sudo yum install docker
 3. sudo usermod -a -G docker ec2-user
 4. id ec2-user
